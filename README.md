@@ -17,13 +17,14 @@
 
 
 <h1 align="center">Hi 👋🏽, I'm Ennio</h1>
-<h3 align="center">A fan of Js from Madagascar</h3>
+<h3 align="center">A fan of Js from Madagascar
 
 - 🔭 I’m currently working on **My Project Personnel**
 
 - 📫 How to contact me? **razafindramosaennio@gmail.com**
 
 - ⚡ Fun fact **I think that i'm funny dude**
+  </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
